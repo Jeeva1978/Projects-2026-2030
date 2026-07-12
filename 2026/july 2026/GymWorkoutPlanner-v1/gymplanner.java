@@ -3,7 +3,7 @@ import java.util.Scanner;
 class detail{
 	static void printline()
 	{
-		for(int i=0;i<=156;i++)
+		for(int i=0;i<=356;i++)
 		{
 			System.out.print("-");
 		}
