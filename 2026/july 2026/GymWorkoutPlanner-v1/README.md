@@ -1,4 +1,4 @@
-# 🏋️ Gym Workout Planner (Java Console App)
+# 🏋️ Gym Workout Planner - version 1 (Java Console App)
 
 A one-time-generator console application that builds a **personalized weekly workout split**, calculates **maintenance calories (TDEE)**, and breaks down **protein/fat/carb targets** — all based on a user's body stats, body fat %, and fitness goal.
 
